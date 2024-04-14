@@ -1,3 +1,5 @@
+package devsuperior.com.br.saidadedados;
+
 public class SaidaDeDadosEmJava {
 
     public static void main (String[] args) {

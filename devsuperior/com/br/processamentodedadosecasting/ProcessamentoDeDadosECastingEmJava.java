@@ -1,3 +1,5 @@
+package devsuperior.com.br.processamentodedadosecasting;
+
 public class ProcessamentoDeDadosECastingEmJava {
 
     public static void main (String[] args) {

@@ -1,3 +1,5 @@
+package devsuperior.com.br.problema;
+
 import java.util.Locale;
 import java.util.Scanner;
 

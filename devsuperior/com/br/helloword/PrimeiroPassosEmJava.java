@@ -1,3 +1,5 @@
+package devsuperior.com.br.helloword;
+
 import java.util.Locale;
 
 public class PrimeiroPassosEmJava {

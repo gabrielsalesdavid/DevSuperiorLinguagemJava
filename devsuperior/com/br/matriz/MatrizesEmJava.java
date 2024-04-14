@@ -1,3 +1,5 @@
+package devsuperior.com.br.matriz;
+
 import java.util.Scanner;
 
 public class MatrizesEmJava {

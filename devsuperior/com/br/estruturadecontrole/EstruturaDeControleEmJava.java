@@ -1,3 +1,5 @@
+package devsuperior.com.br.estruturadecontrole;
+
 import java.util.Scanner;
 
 public class EstruturaDeControleEmJava {
